@@ -1,0 +1,1040 @@
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:45 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:45 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:45 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:46 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:47 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:47 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:47 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:47 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:47 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:47 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:47 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:47 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:47 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:47 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:47 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:47 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:47 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:47 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:47 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:47 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:47 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:47 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:47 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:47 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:47 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:47 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:47 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:47 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:47 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:47 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:47 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:47 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:47 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:47 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:47 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:47 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:47 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:47 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:47 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:47 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:47 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:47 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:47 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:47 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:47 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:00:47 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 135
+Date/Time: 06-02-2016 06:03:24 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 06-02-2016 06:03:24 PM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 135
+Date/Time: 07-02-2016 04:59:21 AM
+================================================
+Title: Ping Crash
+Message: An exception occurred during a Ping request.
+StackTrace:    at System.Net.NetworkInformation.Ping.Send(IPAddress address, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   at System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress)
+   at Bits.Form1.Cods() in C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\Form1.vb:line 133
+Date/Time: 07-02-2016 04:59:22 AM
+================================================

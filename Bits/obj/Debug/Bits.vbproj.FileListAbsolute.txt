@@ -1,0 +1,81 @@
+C:\Users\Nisch\AppData\Local\Temporary Projects\Bits\bin\Debug\Bits.exe.config
+C:\Users\Nisch\AppData\Local\Temporary Projects\Bits\bin\Debug\Bits.exe
+C:\Users\Nisch\AppData\Local\Temporary Projects\Bits\bin\Debug\Bits.pdb
+C:\Users\Nisch\AppData\Local\Temporary Projects\Bits\bin\Debug\Bits.xml
+C:\Users\Nisch\AppData\Local\Temporary Projects\Bits\obj\Debug\Bits.vbprojResolveAssemblyReference.cache
+C:\Users\Nisch\AppData\Local\Temporary Projects\Bits\obj\Debug\Bits.Form1.resources
+C:\Users\Nisch\AppData\Local\Temporary Projects\Bits\obj\Debug\Bits.Resources.resources
+C:\Users\Nisch\AppData\Local\Temporary Projects\Bits\obj\Debug\Bits.vbproj.GenerateResource.Cache
+C:\Users\Nisch\AppData\Local\Temporary Projects\Bits\obj\Debug\Bits.exe
+C:\Users\Nisch\AppData\Local\Temporary Projects\Bits\obj\Debug\Bits.xml
+C:\Users\Nisch\AppData\Local\Temporary Projects\Bits\obj\Debug\Bits.pdb
+C:\Users\Nisch\AppData\Local\Temporary Projects\Bits\obj\Debug\Bits.login.resources
+C:\Users\Nisch\AppData\Local\Temporary Projects\Bits\obj\Debug\Bits.browser.resources
+C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits - Copy\Bits\bin\Debug\Bits.exe.config
+C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits - Copy\Bits\bin\Debug\Bits.exe
+C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits - Copy\Bits\bin\Debug\Bits.pdb
+C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits - Copy\Bits\bin\Debug\Bits.xml
+C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits - Copy\Bits\bin\Debug\Parse.dll
+C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits - Copy\Bits\bin\Debug\Parse.NetFx45.dll
+C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits - Copy\Bits\bin\Debug\Parse.xml
+C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits - Copy\Bits\bin\Debug\Parse.NetFx45.xml
+C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits - Copy\Bits\obj\Debug\Bits.vbprojResolveAssemblyReference.cache
+C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits - Copy\Bits\obj\Debug\Bits.browser.resources
+C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits - Copy\Bits\obj\Debug\Bits.Form1.resources
+C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits - Copy\Bits\obj\Debug\Bits.login.resources
+C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits - Copy\Bits\obj\Debug\Bits.Resources.resources
+C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits - Copy\Bits\obj\Debug\Bits.settings.resources
+C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits - Copy\Bits\obj\Debug\Bits.vbproj.GenerateResource.Cache
+C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits - Copy\Bits\obj\Debug\Bits.exe
+C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits - Copy\Bits\obj\Debug\Bits.xml
+C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits - Copy\Bits\obj\Debug\Bits.pdb
+C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\bin\Debug\Bits.exe.config
+C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\bin\Debug\Bits.exe
+C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\bin\Debug\Bits.pdb
+C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\bin\Debug\Bits.xml
+C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\bin\Debug\Parse.dll
+C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\bin\Debug\Parse.NetFx45.dll
+C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\bin\Debug\Parse.xml
+C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\bin\Debug\Parse.NetFx45.xml
+C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\obj\Debug\Bits.browser.resources
+C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\obj\Debug\Bits.firstrun.resources
+C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\obj\Debug\Bits.Form1.resources
+C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\obj\Debug\Bits.login.resources
+C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\obj\Debug\Bits.Resources.resources
+C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\obj\Debug\Bits.settings.resources
+C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\obj\Debug\Bits.vbproj.GenerateResource.Cache
+C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\obj\Debug\Bits.exe
+C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\obj\Debug\Bits.xml
+C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\obj\Debug\Bits.pdb
+C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\obj\Debug\Bits.vbprojResolveAssemblyReference.cache
+C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\bin\Debug\Dns DNS.dll
+C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\bin\Debug\Dns DNS.pdb
+C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\obj\Debug\Bits.diagnose.resources
+C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\obj\Debug\Bits.internettype.resources
+C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\bin\Debug\Bits.exe.CodeAnalysisLog.xml
+C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\bin\Debug\Bits.exe.lastcodeanalysissucceeded
+C:\Users\Nischay\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\bin\Debug\Bits.exe.config
+C:\Users\Nischay\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\obj\Debug\Bits.exe
+C:\Users\Nischay\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\obj\Debug\Bits.xml
+C:\Users\Nischay\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\obj\Debug\Bits.pdb
+C:\Users\Nischay\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\bin\Debug\Bits.exe
+C:\Users\Nischay\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\bin\Debug\Bits.pdb
+C:\Users\Nischay\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\bin\Debug\Bits.xml
+C:\Users\Nischay\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\bin\Debug\Bits.exe.CodeAnalysisLog.xml
+C:\Users\Nischay\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\bin\Debug\Bits.exe.lastcodeanalysissucceeded
+C:\Users\Nischay\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\bin\Debug\Dns DNS.dll
+C:\Users\Nischay\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\bin\Debug\Parse.dll
+C:\Users\Nischay\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\bin\Debug\Parse.NetFx45.dll
+C:\Users\Nischay\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\bin\Debug\Dns DNS.pdb
+C:\Users\Nischay\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\bin\Debug\Parse.xml
+C:\Users\Nischay\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\bin\Debug\Parse.NetFx45.xml
+C:\Users\Nischay\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\obj\Debug\Bits.vbprojResolveAssemblyReference.cache
+C:\Users\Nischay\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\obj\Debug\Bits.browser.resources
+C:\Users\Nischay\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\obj\Debug\Bits.diagnose.resources
+C:\Users\Nischay\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\obj\Debug\Bits.firstrun.resources
+C:\Users\Nischay\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\obj\Debug\Bits.Form1.resources
+C:\Users\Nischay\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\obj\Debug\Bits.internettype.resources
+C:\Users\Nischay\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\obj\Debug\Bits.login.resources
+C:\Users\Nischay\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\obj\Debug\Bits.Resources.resources
+C:\Users\Nischay\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\obj\Debug\Bits.settings.resources
+C:\Users\Nischay\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Bits\obj\Debug\Bits.vbproj.GenerateResource.Cache

@@ -1,0 +1,63 @@
+
+    Private Sub CheckNetworkChange()
+
+        If networkaccess = False And Application.OpenForms.Count > 2 Then
+        Else
+            For Each networkCard As NetworkInterface In NetworkInterface.GetAllNetworkInterfaces
+                For Each gatewayAddr As GatewayIPAddressInformation In networkCard.GetIPProperties.GatewayAddresses
+                    If gatewayAddr.Address.ToString <> "0.0.0.0" And networkCard.OperationalStatus.ToString() = "Up" Then
+                        If networkCard.GetIPProperties.DnsSuffix <> "" Then
+                            If currentguid <> Nothing And currentguid <> networkCard.Id Then
+                                If My.Computer.FileSystem.FileExists(My.Application.Info.DirectoryPath & "\connections.xml") Then
+                                    Dim reader = XDocument.Load(My.Application.Info.DirectoryPath & "\connections.xml")
+                                    For Each readshit In reader.<connection>.<settings>
+                                        If readshit.<Network_Card_ID>.Value = currentguid Then
+                                            whichbavan = readshit.<Bavan_Access_From>.Value
+                                            networkaccess = True
+                                            currentguid = networkCard.Id
+
+                                            Exit For
+                                        End If
+                                    Next
+                                    If networkaccess = False Then
+                                        internettype.Show()
+                                    End If
+                                    networkaccess = False
+                                    Exit Sub
+                                Else
+                                    If networkaccess = False Then
+                                        internettype.Show()
+                                    End If
+                                    networkaccess = False
+                                    Exit Sub
+                                End If
+                            Else
+                                currentguid = networkCard.Id
+                                If My.Computer.FileSystem.FileExists(My.Application.Info.DirectoryPath & "\connections.xml") Then
+                                    Dim reader = XDocument.Load(My.Application.Info.DirectoryPath & "\connections.xml")
+                                    For Each readshit In reader.<connection>.<settings>
+                                        If readshit.<Network_Card_ID>.Value = currentguid Then
+                                            whichbavan = readshit.<Bavan_Access_From>.Value
+                                            networkaccess = True
+                                            Exit Sub
+                                        End If
+                                    Next
+                                    If networkaccess = False Then
+                                        internettype.Show()
+                                    End If
+                                    networkaccess = False
+                                    Exit Sub
+                                Else
+                                    If networkaccess = False Then
+                                        internettype.Show()
+                                    End If
+                                    networkaccess = False
+                                    Exit Sub
+                                End If
+                            End If
+                        End If
+                    End If
+                Next
+            Next
+        End If
+    End Sub

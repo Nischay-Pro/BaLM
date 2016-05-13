@@ -1,0 +1,11 @@
+C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Updater\bin\Debug\Updater.exe.config
+C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Updater\bin\Debug\Updater.exe
+C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Updater\bin\Debug\Updater.pdb
+C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Updater\bin\Debug\Updater.xml
+C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Updater\obj\Debug\Updater.Form1.resources
+C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Updater\obj\Debug\Updater.Resources.resources
+C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Updater\obj\Debug\Updater.vbproj.GenerateResource.Cache
+C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Updater\obj\Debug\Updater.exe
+C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Updater\obj\Debug\Updater.xml
+C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Updater\obj\Debug\Updater.pdb
+C:\Users\Nisch\OneDrive\Documents\Visual Studio 2015\Projects\Bits\Updater\obj\Debug\Updater.vbprojResolveAssemblyReference.cache
